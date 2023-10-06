@@ -1,0 +1,35 @@
+[
+    {
+        "image": "dell.jpg",
+        "brand": "dell"
+    },
+    {
+    	"image": "lenovo.jpg",
+        "brand": "lenovo"
+    },
+    {
+    	"image": "wd.jpg",
+        "brand": "wd"
+    },
+    {
+    	"image": "wd.jpg",
+        "brand": "western digital"
+    },
+    {
+    	"image": "lexar.jpg",
+        "brand": "lexar"
+    },
+    {
+    	"image": "intel.jpg",
+        "brand": "intel"
+    },
+    {
+    	"image": "sabrent.jpg",
+        "brand": "sabrent"
+    },
+
+    {
+    	"image": "crucial.jpg",
+        "brand": "crucial"
+    }
+]

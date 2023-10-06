@@ -1,0 +1,769 @@
+[26-Jul-2023 07:59:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Special Delivery Guaranteed by 1pm (£750) - SD1' WHERE order_id = 139716185
+[26-Jul-2023 08:04:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139667464
+[26-Jul-2023 08:42:32 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139618018
+[26-Jul-2023 09:00:35 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139680938
+[26-Jul-2023 09:01:34 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139661310
+[26-Jul-2023 09:10:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139680940
+[26-Jul-2023 13:17:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139787463
+[26-Jul-2023 13:31:47 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 139789669
+[26-Jul-2023 13:32:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[26-Jul-2023 13:45:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139791669
+[26-Jul-2023 14:13:27 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139793252
+[27-Jul-2023 08:04:51 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139928888
+[27-Jul-2023 08:19:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 139928887
+[27-Jul-2023 09:03:30 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 139924313
+[27-Jul-2023 09:07:18 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 139892683
+[27-Jul-2023 09:09:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 139946658
+[27-Jul-2023 10:47:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139972824
+[27-Jul-2023 11:22:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139982123
+[27-Jul-2023 13:07:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 139989669
+[27-Jul-2023 14:31:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140015454
+[27-Jul-2023 14:35:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 140016903
+[27-Jul-2023 14:43:37 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 140018303
+[27-Jul-2023 14:45:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140018311
+[28-Jul-2023 09:23:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[28-Jul-2023 09:23:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[28-Jul-2023 10:22:04 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 140121522
+[28-Jul-2023 14:08:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 140155951
+[31-Jul-2023 07:17:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 140411853
+[31-Jul-2023 07:20:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140411853
+[31-Jul-2023 07:41:37 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140390438
+[31-Jul-2023 08:45:14 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140376205
+[31-Jul-2023 09:39:48 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140534422
+[31-Jul-2023 09:43:41 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140287475
+[31-Jul-2023 09:45:05 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140477507
+[31-Jul-2023 09:52:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - Expresspak DPD Next Day' WHERE order_id = 140169027
+[31-Jul-2023 10:14:52 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 140553804
+[31-Jul-2023 10:17:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140411850
+[31-Jul-2023 11:30:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 140567135
+[31-Jul-2023 14:35:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 140608024
+[01-Aug-2023 08:01:21 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140672260
+[01-Aug-2023 08:09:31 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140751663
+[01-Aug-2023 09:16:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140654168
+[01-Aug-2023 09:56:53 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 140847595
+[01-Aug-2023 09:57:09 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 140847595
+[01-Aug-2023 10:02:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140847896
+[01-Aug-2023 10:03:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[01-Aug-2023 12:51:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 140867607
+[01-Aug-2023 13:00:46 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Classic' WHERE order_id = 140883098
+[01-Aug-2023 13:00:53 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Classic' WHERE order_id = 140883098
+[01-Aug-2023 13:13:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140872851
+[01-Aug-2023 13:20:30 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 140872846
+[01-Aug-2023 14:16:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 140896263
+[02-Aug-2023 08:04:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140946276
+[02-Aug-2023 08:05:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - Expresspak DPD Next Day' WHERE order_id = 140946276
+[02-Aug-2023 08:12:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 140946313
+[02-Aug-2023 10:07:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141014496
+[02-Aug-2023 11:03:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141023370
+[02-Aug-2023 13:18:54 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141041782
+[03-Aug-2023 07:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[03-Aug-2023 08:00:11 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141112535
+[03-Aug-2023 08:01:53 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141105792
+[03-Aug-2023 08:02:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141105789
+[03-Aug-2023 08:03:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141107512
+[03-Aug-2023 08:06:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141128811
+[03-Aug-2023 08:07:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141105790
+[03-Aug-2023 08:09:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141074895
+[03-Aug-2023 08:12:57 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141105795
+[03-Aug-2023 08:13:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141098604
+[03-Aug-2023 08:16:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141118728
+[03-Aug-2023 08:17:06 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141115847
+[03-Aug-2023 08:17:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141115850
+[03-Aug-2023 08:19:17 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141115846
+[03-Aug-2023 08:20:29 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141112533
+[03-Aug-2023 08:20:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141105793
+[03-Aug-2023 08:22:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141128810
+[03-Aug-2023 08:24:17 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141115849
+[03-Aug-2023 08:24:51 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141135648
+[03-Aug-2023 08:37:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141090776
+[03-Aug-2023 08:38:52 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141063125
+[03-Aug-2023 08:42:29 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141150328
+[03-Aug-2023 08:44:30 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141107511
+[03-Aug-2023 08:44:38 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141107511
+[03-Aug-2023 09:00:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141098603
+[03-Aug-2023 09:05:27 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141118717
+[03-Aug-2023 09:18:16 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141150268
+[03-Aug-2023 09:26:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141155642
+[03-Aug-2023 09:30:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141074898
+[03-Aug-2023 09:32:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141154036
+[03-Aug-2023 09:34:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 141158032
+[03-Aug-2023 10:28:17 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 141166773
+[03-Aug-2023 10:59:11 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141173530
+[03-Aug-2023 11:03:18 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141150285
+[03-Aug-2023 11:45:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[03-Aug-2023 12:21:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[03-Aug-2023 12:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[03-Aug-2023 12:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[03-Aug-2023 12:23:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[03-Aug-2023 12:24:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home/skx/public_html/android-app/saveLaptopDispatch.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/saveLaptopDispatch.php on line 31
+[03-Aug-2023 12:24:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /home/skx/public_html/android-app/saveLaptopDispatch.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/saveLaptopDispatch.php on line 31
+[03-Aug-2023 12:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[03-Aug-2023 12:24:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[03-Aug-2023 12:48:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[03-Aug-2023 12:48:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[03-Aug-2023 12:48:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[03-Aug-2023 12:59:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 141187371
+[03-Aug-2023 13:25:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141185727
+[03-Aug-2023 14:46:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[03-Aug-2023 14:46:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[03-Aug-2023 14:46:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Aug-2023 06:52:38 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141273757
+[04-Aug-2023 07:47:07 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141261619
+[04-Aug-2023 09:47:38 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141308047
+[04-Aug-2023 09:49:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141308045
+[04-Aug-2023 10:42:51 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141313244
+[04-Aug-2023 11:27:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141321255
+[04-Aug-2023 11:41:47 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141327124
+[04-Aug-2023 13:40:04 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141332919
+[07-Aug-2023 08:23:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141459479
+[07-Aug-2023 08:40:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141631293
+[07-Aug-2023 08:47:32 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141534363
+[07-Aug-2023 08:48:11 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141534363
+[07-Aug-2023 08:49:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141443789
+[07-Aug-2023 08:49:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141443789
+[07-Aug-2023 08:56:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141568831
+[07-Aug-2023 08:59:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141481771
+[07-Aug-2023 09:09:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141366109
+[07-Aug-2023 09:16:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141366106
+[07-Aug-2023 09:52:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141646860
+[07-Aug-2023 10:29:17 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141473786
+[07-Aug-2023 10:47:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141463910
+[07-Aug-2023 11:16:46 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141661067
+[07-Aug-2023 11:32:27 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 141664380
+[07-Aug-2023 11:48:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141670397
+[07-Aug-2023 13:14:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141678959
+[07-Aug-2023 13:27:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141687187
+[07-Aug-2023 14:06:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[08-Aug-2023 08:41:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - Expresspak DPD Next Day' WHERE order_id = 141742928
+[08-Aug-2023 09:14:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141763922
+[08-Aug-2023 09:16:04 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141713785
+[08-Aug-2023 09:20:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141726111
+[08-Aug-2023 09:49:18 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141749416
+[08-Aug-2023 10:15:29 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 141721480
+[08-Aug-2023 10:46:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141703001
+[08-Aug-2023 10:46:43 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141703001
+[08-Aug-2023 13:03:53 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 141822008
+[08-Aug-2023 13:20:39 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141824535
+[08-Aug-2023 13:59:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141836147
+[08-Aug-2023 14:56:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[09-Aug-2023 08:06:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141892725
+[09-Aug-2023 08:51:39 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141905795
+[09-Aug-2023 08:59:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141889323
+[09-Aug-2023 09:03:54 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141870433
+[09-Aug-2023 09:07:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141901445
+[09-Aug-2023 09:10:14 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141877347
+[09-Aug-2023 09:12:15 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141912057
+[09-Aug-2023 09:33:20 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141892718
+[09-Aug-2023 10:24:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[09-Aug-2023 14:19:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 141976121
+[09-Aug-2023 14:28:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 141978052
+[10-Aug-2023 07:50:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[10-Aug-2023 07:50:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[10-Aug-2023 08:05:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142026982
+[10-Aug-2023 08:07:02 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 141997532
+[10-Aug-2023 08:08:15 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142010606
+[10-Aug-2023 08:17:40 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 142016548
+[10-Aug-2023 08:56:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142056202
+[10-Aug-2023 08:58:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Special Delivery Guaranteed by 1pm (£750) - SD1' WHERE order_id = 142016527
+[10-Aug-2023 09:47:43 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142060344
+[10-Aug-2023 10:25:02 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141983735
+[10-Aug-2023 10:25:41 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 141983735
+[10-Aug-2023 10:45:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142077674
+[10-Aug-2023 10:45:51 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142077674
+[10-Aug-2023 11:06:57 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142080872
+[10-Aug-2023 11:44:59 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 142084143
+[10-Aug-2023 12:57:29 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142096779
+[10-Aug-2023 14:40:31 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142112595
+[11-Aug-2023 07:28:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142162504
+[11-Aug-2023 09:34:15 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142194365
+[11-Aug-2023 10:15:46 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142200676
+[11-Aug-2023 10:58:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 142208676
+[11-Aug-2023 11:36:48 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142208664
+[11-Aug-2023 13:15:32 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142222086
+[14-Aug-2023 08:47:34 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142464846
+[14-Aug-2023 08:59:46 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 142431058
+[14-Aug-2023 08:59:54 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 142431058
+[14-Aug-2023 09:00:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142405841
+[14-Aug-2023 09:02:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 142365424
+[14-Aug-2023 09:04:02 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142464850
+[14-Aug-2023 09:04:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Two Day' WHERE order_id = 142334931
+[14-Aug-2023 09:05:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 142522413
+[14-Aug-2023 09:24:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142531820
+[14-Aug-2023 09:26:16 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 142534685
+[14-Aug-2023 10:15:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142458762
+[14-Aug-2023 10:17:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142298003
+[14-Aug-2023 10:20:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142418396
+[14-Aug-2023 10:25:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142548378
+[14-Aug-2023 10:33:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142542929
+[14-Aug-2023 10:34:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142269279
+[14-Aug-2023 12:58:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 142570956
+[14-Aug-2023 13:00:20 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Mail Tracked ' WHERE order_id = 142562289
+[15-Aug-2023 08:05:05 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142618305
+[15-Aug-2023 08:06:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142629954
+[15-Aug-2023 08:42:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 142625624
+[15-Aug-2023 08:50:14 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142641616
+[15-Aug-2023 09:18:04 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142599659
+[15-Aug-2023 09:27:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142599662
+[15-Aug-2023 09:42:48 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 142685659
+[15-Aug-2023 11:01:05 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 142685638
+[15-Aug-2023 11:19:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142681142
+[15-Aug-2023 11:19:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142681142
+[15-Aug-2023 11:28:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142700529
+[15-Aug-2023 11:28:40 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142700529
+[15-Aug-2023 13:39:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142716100
+[15-Aug-2023 13:58:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142721827
+[15-Aug-2023 14:32:31 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142730161
+[15-Aug-2023 14:43:47 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142732515
+[16-Aug-2023 08:02:48 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142739759
+[16-Aug-2023 08:48:57 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 142792566
+[16-Aug-2023 09:06:16 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Mail Tracked ' WHERE order_id = 142816488
+[16-Aug-2023 09:09:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142825616
+[16-Aug-2023 09:35:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142783485
+[16-Aug-2023 09:35:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142783485
+[16-Aug-2023 09:36:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[16-Aug-2023 09:51:34 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142783493
+[16-Aug-2023 10:42:20 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142848508
+[16-Aug-2023 10:49:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142832995
+[16-Aug-2023 10:50:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142832995
+[16-Aug-2023 14:37:39 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142915425
+[16-Aug-2023 14:37:52 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 142915425
+[17-Aug-2023 08:06:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142947732
+[17-Aug-2023 08:08:34 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 142924142
+[17-Aug-2023 10:18:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143008378
+[17-Aug-2023 13:30:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Special Delivery Guaranteed by 1pm (£750) - SD1' WHERE order_id = 143044663
+[17-Aug-2023 14:30:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143070942
+[18-Aug-2023 08:31:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[18-Aug-2023 08:31:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[18-Aug-2023 08:31:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[18-Aug-2023 09:30:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 143174447
+[18-Aug-2023 09:53:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143176785
+[18-Aug-2023 10:47:49 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 143204275
+[18-Aug-2023 13:08:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[18-Aug-2023 13:08:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[21-Aug-2023 08:20:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143445090
+[21-Aug-2023 08:21:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143361018
+[21-Aug-2023 08:55:29 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143475111
+[21-Aug-2023 08:57:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143242438
+[21-Aug-2023 09:03:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143475109
+[21-Aug-2023 09:09:47 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143274391
+[21-Aug-2023 09:10:16 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143352985
+[21-Aug-2023 09:13:11 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143242431
+[21-Aug-2023 09:22:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143486843
+[21-Aug-2023 09:24:17 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143295356
+[21-Aug-2023 09:24:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143295356
+[21-Aug-2023 09:47:38 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 143510896
+[21-Aug-2023 09:52:35 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143280646
+[21-Aug-2023 10:21:32 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DHL Express UK - Domestic Express' WHERE order_id = 143403619
+[21-Aug-2023 11:02:15 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143529407
+[21-Aug-2023 12:46:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[21-Aug-2023 12:46:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[22-Aug-2023 07:54:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 77
+[22-Aug-2023 07:54:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 77
+[22-Aug-2023 07:54:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[22-Aug-2023 07:54:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 77
+[22-Aug-2023 07:54:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 77
+[22-Aug-2023 07:54:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[22-Aug-2023 08:13:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 77
+[22-Aug-2023 08:13:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[22-Aug-2023 10:28:37 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143570307
+[22-Aug-2023 10:39:20 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143602913
+[22-Aug-2023 10:41:17 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[22-Aug-2023 10:41:17 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[22-Aug-2023 10:52:48 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143666470
+[22-Aug-2023 11:06:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143582941
+[22-Aug-2023 11:43:07 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 143684851
+[22-Aug-2023 11:55:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[22-Aug-2023 12:49:18 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143687644
+[22-Aug-2023 12:52:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[22-Aug-2023 12:52:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[22-Aug-2023 13:19:39 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143676048
+[22-Aug-2023 13:52:39 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143702801
+[22-Aug-2023 14:09:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 143702810
+[22-Aug-2023 14:14:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - Expresspak DPD Next Day' WHERE order_id = 143707860
+[23-Aug-2023 08:03:47 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143795435
+[23-Aug-2023 08:25:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 143764697
+[23-Aug-2023 08:41:17 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143779735
+[23-Aug-2023 09:22:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143795430
+[23-Aug-2023 09:57:46 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143716649
+[23-Aug-2023 10:31:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 143812344
+[23-Aug-2023 10:31:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 143812344
+[23-Aug-2023 10:32:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[23-Aug-2023 10:32:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[23-Aug-2023 10:32:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[23-Aug-2023 10:32:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[23-Aug-2023 10:54:43 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 143819724
+[23-Aug-2023 12:53:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143839014
+[23-Aug-2023 14:18:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 143852635
+[24-Aug-2023 06:10:31 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 143875196
+[24-Aug-2023 09:12:06 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 143944136
+[24-Aug-2023 09:53:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[24-Aug-2023 09:53:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[24-Aug-2023 09:53:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[24-Aug-2023 10:14:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Mail Tracked ' WHERE order_id = 143952472
+[24-Aug-2023 12:47:37 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 143967503
+[24-Aug-2023 13:31:27 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 143967491
+[24-Aug-2023 13:33:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 143967383
+[24-Aug-2023 15:18:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 143985000
+[25-Aug-2023 09:08:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144085977
+[25-Aug-2023 09:50:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[25-Aug-2023 09:50:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[25-Aug-2023 09:50:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[25-Aug-2023 15:27:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144152765
+[29-Aug-2023 06:48:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144450528
+[29-Aug-2023 08:32:11 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 144450673
+[29-Aug-2023 09:36:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144329180
+[29-Aug-2023 09:41:18 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144420979
+[29-Aug-2023 09:52:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144386892
+[29-Aug-2023 09:57:12 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144427363
+[29-Aug-2023 10:03:27 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144318574
+[29-Aug-2023 10:08:30 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144515041
+[29-Aug-2023 10:10:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144530165
+[29-Aug-2023 10:12:57 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 144484117
+[29-Aug-2023 10:17:04 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144257347
+[29-Aug-2023 10:20:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Special Delivery Guaranteed by 1pm (£750) - SD1' WHERE order_id = 144605636
+[29-Aug-2023 10:23:02 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144507077
+[29-Aug-2023 10:23:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144605641
+[29-Aug-2023 10:39:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DHL Express UK - Express Worldwide' WHERE order_id = 144541106
+[29-Aug-2023 10:41:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144499215
+[29-Aug-2023 10:42:34 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144340404
+[29-Aug-2023 10:42:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144340404
+[29-Aug-2023 10:50:11 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144612502
+[29-Aug-2023 10:51:37 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144162759
+[29-Aug-2023 10:54:35 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144612510
+[29-Aug-2023 11:02:16 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144279306
+[29-Aug-2023 11:02:53 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144279306
+[29-Aug-2023 11:05:47 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144206221
+[29-Aug-2023 11:08:12 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144442923
+[29-Aug-2023 11:08:46 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144442923
+[29-Aug-2023 11:10:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144435095
+[29-Aug-2023 11:26:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144484116
+[29-Aug-2023 11:51:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144560734
+[29-Aug-2023 13:24:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144636381
+[29-Aug-2023 14:57:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[29-Aug-2023 14:57:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[29-Aug-2023 14:57:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[29-Aug-2023 14:57:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[30-Aug-2023 08:05:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144677058
+[30-Aug-2023 08:06:18 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144697005
+[30-Aug-2023 08:06:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144677050
+[30-Aug-2023 08:07:37 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144669949
+[30-Aug-2023 08:11:54 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144683267
+[30-Aug-2023 08:13:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144697002
+[30-Aug-2023 08:31:40 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 144708749
+[30-Aug-2023 09:28:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - Expresspak DPD Next Day' WHERE order_id = 144755047
+[30-Aug-2023 09:38:49 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144742648
+[30-Aug-2023 09:54:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144742646
+[30-Aug-2023 13:38:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144805863
+[30-Aug-2023 13:39:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144805863
+[30-Aug-2023 14:32:57 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 144816624
+[31-Aug-2023 08:05:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144850158
+[31-Aug-2023 08:09:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144873776
+[31-Aug-2023 08:52:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Special Delivery Guaranteed by 1pm (£750) - SD1' WHERE order_id = 144889065
+[31-Aug-2023 09:17:50 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144829890
+[31-Aug-2023 09:18:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144829890
+[31-Aug-2023 09:20:40 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144843655
+[31-Aug-2023 09:21:53 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144843664
+[31-Aug-2023 09:41:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 143998628
+[31-Aug-2023 11:42:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144948768
+[31-Aug-2023 14:14:07 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 144972472
+[31-Aug-2023 14:48:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 144979261
+[01-Sep-2023 08:48:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145040926
+[01-Sep-2023 10:49:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145048085
+[01-Sep-2023 11:36:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145109941
+[01-Sep-2023 14:35:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145142132
+[02-Sep-2023 09:07:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[02-Sep-2023 09:50:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:00:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 08:05:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145382165
+[04-Sep-2023 08:43:05 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145177085
+[04-Sep-2023 08:50:02 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145391509
+[04-Sep-2023 08:51:02 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145407180
+[04-Sep-2023 08:54:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145292675
+[04-Sep-2023 09:36:49 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145445056
+[04-Sep-2023 09:37:50 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145329023
+[04-Sep-2023 09:45:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145428734
+[04-Sep-2023 09:55:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145195809
+[04-Sep-2023 10:12:51 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145471652
+[04-Sep-2023 10:20:09 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145288335
+[04-Sep-2023 10:23:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - Expresspak DPD Next Day' WHERE order_id = 145445067
+[04-Sep-2023 10:26:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 145464758
+[04-Sep-2023 10:43:50 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145477943
+[04-Sep-2023 11:28:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 145488545
+[04-Sep-2023 12:56:31 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145495113
+[04-Sep-2023 13:16:11 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145506699
+[04-Sep-2023 13:17:24 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[04-Sep-2023 14:10:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 145522755
+[04-Sep-2023 14:36:31 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145526020
+[04-Sep-2023 14:59:30 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145533637
+[05-Sep-2023 08:03:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145592294
+[05-Sep-2023 10:02:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145634637
+[05-Sep-2023 10:05:38 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145634635
+[05-Sep-2023 10:25:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145640504
+[05-Sep-2023 10:34:34 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 145640507
+[05-Sep-2023 11:03:09 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145645426
+[06-Sep-2023 08:23:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[06-Sep-2023 08:23:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[06-Sep-2023 08:23:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[06-Sep-2023 08:26:02 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 145771526
+[06-Sep-2023 09:02:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[06-Sep-2023 09:02:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[06-Sep-2023 13:28:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[06-Sep-2023 13:32:21 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145821975
+[06-Sep-2023 13:40:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[07-Sep-2023 08:11:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 145887200
+[07-Sep-2023 08:30:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 34
+[07-Sep-2023 08:38:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145887281
+[07-Sep-2023 08:55:49 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145852887
+[07-Sep-2023 09:20:27 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145914783
+[07-Sep-2023 09:22:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 145913650
+[07-Sep-2023 10:44:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 145949804
+[07-Sep-2023 11:34:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145951931
+[07-Sep-2023 11:38:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 145956592
+[07-Sep-2023 13:19:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 145961125
+[07-Sep-2023 13:27:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 145971438
+[07-Sep-2023 13:57:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145976165
+[07-Sep-2023 13:58:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145976165
+[07-Sep-2023 14:32:53 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 145982776
+[08-Sep-2023 06:24:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 146038063
+[08-Sep-2023 06:47:02 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146006160
+[08-Sep-2023 06:52:16 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146031183
+[08-Sep-2023 06:58:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146025597
+[08-Sep-2023 12:01:43 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146085043
+[08-Sep-2023 12:51:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[08-Sep-2023 12:51:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[08-Sep-2023 12:51:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[08-Sep-2023 12:51:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[08-Sep-2023 12:51:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[08-Sep-2023 12:51:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[08-Sep-2023 13:17:20 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 146106909
+[08-Sep-2023 13:27:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146106905
+[08-Sep-2023 13:56:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 146102987
+[08-Sep-2023 14:00:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146111624
+[08-Sep-2023 14:07:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146114273
+[08-Sep-2023 14:36:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146117678
+[11-Sep-2023 06:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[11-Sep-2023 06:34:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146339511
+[11-Sep-2023 06:35:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146201645
+[11-Sep-2023 07:08:11 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146300217
+[11-Sep-2023 08:04:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146202900
+[11-Sep-2023 08:23:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146237945
+[11-Sep-2023 08:29:04 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146365054
+[11-Sep-2023 08:35:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146246681
+[11-Sep-2023 08:39:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146289643
+[11-Sep-2023 09:44:27 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146224208
+[11-Sep-2023 10:10:57 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146421727
+[11-Sep-2023 11:08:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[11-Sep-2023 11:09:34 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146434823
+[11-Sep-2023 13:39:09 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146462590
+[11-Sep-2023 13:41:02 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146462605
+[11-Sep-2023 13:49:21 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146462585
+[11-Sep-2023 14:31:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146471339
+[11-Sep-2023 14:55:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146474097
+[12-Sep-2023 08:08:34 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146478695
+[12-Sep-2023 08:09:46 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146500044
+[12-Sep-2023 08:16:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146524247
+[12-Sep-2023 08:18:49 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146509624
+[12-Sep-2023 09:27:31 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146509619
+[12-Sep-2023 09:39:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146577178
+[12-Sep-2023 10:06:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146577176
+[12-Sep-2023 10:34:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 146585117
+[12-Sep-2023 10:43:21 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146585112
+[12-Sep-2023 11:32:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Two Day - Republic of Ireland' WHERE order_id = 146593113
+[12-Sep-2023 11:36:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146594022
+[12-Sep-2023 11:36:52 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146594022
+[12-Sep-2023 11:50:39 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 146603935
+[12-Sep-2023 11:52:40 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146603968
+[12-Sep-2023 13:21:20 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DHL Express UK - Economy Select EU' WHERE order_id = 146617977
+[12-Sep-2023 13:49:52 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146623111
+[13-Sep-2023 08:18:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146654873
+[13-Sep-2023 08:29:59 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146653457
+[13-Sep-2023 08:50:59 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146647293
+[13-Sep-2023 09:05:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146666018
+[13-Sep-2023 09:20:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 146640395
+[13-Sep-2023 09:24:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146640398
+[13-Sep-2023 09:26:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146647188
+[13-Sep-2023 09:39:44 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Mail Tracked ' WHERE order_id = 146666020
+[13-Sep-2023 13:12:14 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 146761152
+[13-Sep-2023 13:30:06 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146764329
+[13-Sep-2023 14:24:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Mail Tracked ' WHERE order_id = 146771376
+[14-Sep-2023 06:15:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146822349
+[14-Sep-2023 07:04:49 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146801149
+[14-Sep-2023 07:18:43 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146782513
+[14-Sep-2023 08:44:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146775322
+[14-Sep-2023 14:16:29 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 146901272
+[14-Sep-2023 14:25:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 146901271
+[15-Sep-2023 06:13:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 146913331
+[18-Sep-2023 08:17:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147158580
+[18-Sep-2023 08:37:17 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147158640
+[18-Sep-2023 08:38:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147250576
+[18-Sep-2023 08:39:47 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147263448
+[18-Sep-2023 08:44:12 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147224411
+[18-Sep-2023 08:57:21 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147217214
+[18-Sep-2023 09:00:11 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - Expresspak DPD Next Day' WHERE order_id = 147286258
+[18-Sep-2023 09:05:14 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 147237418
+[18-Sep-2023 09:12:57 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147316330
+[18-Sep-2023 09:16:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147296327
+[18-Sep-2023 09:18:11 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147059451
+[18-Sep-2023 09:20:09 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147101103
+[18-Sep-2023 09:21:18 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147172041
+[18-Sep-2023 09:25:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147066368
+[18-Sep-2023 09:26:50 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147286261
+[18-Sep-2023 09:28:37 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147250592
+[18-Sep-2023 09:31:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147196782
+[18-Sep-2023 09:32:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147163207
+[18-Sep-2023 09:42:09 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 147066370
+[18-Sep-2023 09:51:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147303680
+[18-Sep-2023 10:03:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147158582
+[18-Sep-2023 10:12:30 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 147350251
+[18-Sep-2023 10:28:34 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147350240
+[18-Sep-2023 10:39:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[18-Sep-2023 10:39:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[18-Sep-2023 10:39:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[18-Sep-2023 10:39:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[18-Sep-2023 10:39:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[18-Sep-2023 11:19:43 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147364672
+[18-Sep-2023 13:01:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147383276
+[18-Sep-2023 13:27:50 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147390363
+[19-Sep-2023 08:04:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147414669
+[19-Sep-2023 08:14:04 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147423604
+[19-Sep-2023 08:15:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147445936
+[19-Sep-2023 08:52:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147423646
+[19-Sep-2023 09:59:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[19-Sep-2023 09:59:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[19-Sep-2023 09:59:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[19-Sep-2023 09:59:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[19-Sep-2023 09:59:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[19-Sep-2023 09:59:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[19-Sep-2023 09:59:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[19-Sep-2023 10:02:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147510944
+[19-Sep-2023 10:03:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147510952
+[19-Sep-2023 10:19:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147414687
+[19-Sep-2023 10:32:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 147510939
+[19-Sep-2023 10:35:39 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147488375
+[19-Sep-2023 10:36:07 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147488375
+[19-Sep-2023 10:46:48 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147510951
+[19-Sep-2023 10:46:59 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147510951
+[19-Sep-2023 11:50:34 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147501727
+[19-Sep-2023 13:04:07 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147534334
+[19-Sep-2023 13:27:54 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147534346
+[19-Sep-2023 13:30:32 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147534347
+[19-Sep-2023 13:54:17 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 147546376
+[20-Sep-2023 07:57:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[20-Sep-2023 07:57:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[20-Sep-2023 08:09:48 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147605446
+[20-Sep-2023 08:10:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147563167
+[20-Sep-2023 08:12:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147599228
+[20-Sep-2023 09:01:12 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147579234
+[20-Sep-2023 09:08:07 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147563173
+[20-Sep-2023 09:12:04 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147579230
+[20-Sep-2023 09:14:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147572752
+[20-Sep-2023 09:22:47 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147563169
+[20-Sep-2023 09:38:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147646035
+[20-Sep-2023 09:40:38 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147646012
+[20-Sep-2023 13:12:20 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DHL Express UK - Express Worldwide EU' WHERE order_id = 147693125
+[20-Sep-2023 14:46:09 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147711328
+[21-Sep-2023 09:11:35 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147749188
+[21-Sep-2023 09:28:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147817903
+[21-Sep-2023 11:46:50 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147842501
+[21-Sep-2023 13:58:59 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 147874175
+[21-Sep-2023 14:47:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 147888561
+[21-Sep-2023 14:47:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[21-Sep-2023 14:49:04 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147888952
+[22-Sep-2023 06:52:25 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 147900627
+[22-Sep-2023 06:53:54 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 147900623
+[22-Sep-2023 07:09:07 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147920360
+[22-Sep-2023 08:23:15 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 147948602
+[22-Sep-2023 09:49:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Special Delivery Guaranteed by 1pm (£750) - SD1' WHERE order_id = 148007584
+[22-Sep-2023 09:58:06 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148007950
+[22-Sep-2023 10:50:09 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 148016698
+[22-Sep-2023 12:03:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148023494
+[22-Sep-2023 13:19:39 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148051239
+[22-Sep-2023 13:25:21 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Classic Expresspak' WHERE order_id = 148051242
+[25-Sep-2023 06:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[25-Sep-2023 07:20:16 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148169168
+[25-Sep-2023 07:22:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148169166
+[25-Sep-2023 08:53:59 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148356878
+[25-Sep-2023 08:55:43 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148086888
+[25-Sep-2023 09:00:50 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148086910
+[25-Sep-2023 09:23:48 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148109257
+[25-Sep-2023 09:24:49 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148086911
+[25-Sep-2023 09:33:02 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148356879
+[25-Sep-2023 09:34:16 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148255968
+[25-Sep-2023 09:34:29 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148255968
+[25-Sep-2023 09:36:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148356888
+[25-Sep-2023 09:45:57 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148298805
+[25-Sep-2023 09:48:05 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148382709
+[25-Sep-2023 10:01:51 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148209633
+[25-Sep-2023 10:02:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148098728
+[25-Sep-2023 10:53:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Special Delivery Guaranteed by 1pm (£750) - SD1' WHERE order_id = 148389730
+[25-Sep-2023 11:19:56 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148396350
+[25-Sep-2023 11:47:30 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148405089
+[25-Sep-2023 13:12:52 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148421914
+[25-Sep-2023 13:31:59 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148421908
+[25-Sep-2023 13:32:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148421908
+[25-Sep-2023 13:41:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148421903
+[25-Sep-2023 13:41:57 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148421903
+[25-Sep-2023 14:19:41 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148435327
+[25-Sep-2023 14:28:43 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148437311
+[26-Sep-2023 07:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/skx/public_html/android-app/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/skx/public_html/android-app/login.php on line 17
+[26-Sep-2023 08:07:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148502811
+[26-Sep-2023 08:14:39 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148518372
+[26-Sep-2023 09:33:38 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148516392
+[26-Sep-2023 09:35:26 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148534772
+[26-Sep-2023 09:38:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148462760
+[26-Sep-2023 13:24:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 34
+[26-Sep-2023 13:36:59 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148583011
+[26-Sep-2023 13:38:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 148587193
+[27-Sep-2023 08:30:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148663431
+[27-Sep-2023 09:08:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 148616352
+[27-Sep-2023 09:28:15 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148656222
+[27-Sep-2023 10:03:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148616350
+[27-Sep-2023 10:03:21 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148616350
+[27-Sep-2023 10:05:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148616360
+[27-Sep-2023 10:18:21 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148656227
+[27-Sep-2023 10:42:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148713787
+[27-Sep-2023 10:42:52 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148713787
+[27-Sep-2023 11:42:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 148721073
+[27-Sep-2023 13:32:50 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148737498
+[27-Sep-2023 13:58:06 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148744463
+[27-Sep-2023 14:13:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[27-Sep-2023 14:18:38 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148750297
+[28-Sep-2023 09:42:46 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148886369
+[28-Sep-2023 09:45:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DHL Express UK - Domestic Express' WHERE order_id = 148886374
+[28-Sep-2023 10:15:47 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148871867
+[28-Sep-2023 13:06:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 148934698
+[28-Sep-2023 13:11:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[28-Sep-2023 13:41:31 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 148938188
+[29-Sep-2023 06:16:07 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149028377
+[29-Sep-2023 06:27:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149000489
+[29-Sep-2023 07:24:51 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 149000502
+[29-Sep-2023 08:44:28 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 149054245
+[29-Sep-2023 13:32:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149097746
+[29-Sep-2023 13:33:17 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 149097259
+[29-Sep-2023 13:39:16 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149104292
+[02-Oct-2023 08:47:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149232111
+[02-Oct-2023 09:11:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149205606
+[02-Oct-2023 09:13:04 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149151375
+[02-Oct-2023 09:15:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149205610
+[02-Oct-2023 09:25:10 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 149378756
+[02-Oct-2023 09:37:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149293720
+[02-Oct-2023 09:41:31 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149298880
+[02-Oct-2023 13:37:52 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149523982
+[02-Oct-2023 14:22:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[02-Oct-2023 14:22:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/skx/public_html/android-app/saveOrderIntoDatabase.php on line 122
+[02-Oct-2023 14:37:48 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Royal Mail 24 - CRL' WHERE order_id = 149534545
+[03-Oct-2023 08:02:53 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149584848
+[03-Oct-2023 08:06:35 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149568448
+[03-Oct-2023 08:09:39 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149553462
+[03-Oct-2023 08:42:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149553468
+[03-Oct-2023 08:43:42 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 149568477
+[03-Oct-2023 09:36:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149645465
+[03-Oct-2023 09:41:31 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Special Delivery Guaranteed by 1pm (£750) - SD1' WHERE order_id = 149592785
+[03-Oct-2023 09:45:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149624130
+[03-Oct-2023 10:02:18 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149576514
+[03-Oct-2023 10:21:30 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149652711
+[03-Oct-2023 13:10:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 149680918
+[03-Oct-2023 13:36:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149680919
+[03-Oct-2023 14:24:23 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149688949
+[03-Oct-2023 14:28:19 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149693230
+[04-Oct-2023 08:02:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149730473
+[04-Oct-2023 08:03:33 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149750876
+[04-Oct-2023 09:52:13 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149758718
+[04-Oct-2023 09:53:58 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149758717
+[04-Oct-2023 09:58:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149730482
+[04-Oct-2023 10:32:03 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 24 - TPN' WHERE order_id = 149804414
+[04-Oct-2023 10:35:51 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Special Delivery Guaranteed by 1pm (£750) - SD1' WHERE order_id = 149804431
+[04-Oct-2023 11:00:12 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149813679
+[04-Oct-2023 11:03:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149813676
+[04-Oct-2023 13:19:32 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149825972
+[04-Oct-2023 13:19:55 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149825972
+[04-Oct-2023 13:47:12 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149841082
+[04-Oct-2023 14:05:01 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149843468
+[04-Oct-2023 14:22:00 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149849248
+[04-Oct-2023 14:34:32 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149850866
+[05-Oct-2023 08:05:27 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149898133
+[05-Oct-2023 08:36:27 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149861311
+[05-Oct-2023 09:16:45 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149918400
+[05-Oct-2023 09:17:09 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149861241
+[05-Oct-2023 09:21:37 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DPD - DPD Next Day' WHERE order_id = 149947911
+[05-Oct-2023 09:36:46 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149869626
+[05-Oct-2023 09:39:05 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149876575
+[05-Oct-2023 09:42:43 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149869629
+[05-Oct-2023 09:56:24 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'DHL Express UK - Express Worldwide' WHERE order_id = 149890777
+[05-Oct-2023 10:01:22 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149955237
+[05-Oct-2023 11:40:08 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149971304
+[05-Oct-2023 11:45:36 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Intl Business Parcels Tracked ' WHERE order_id = 149972124
+[05-Oct-2023 13:33:29 UTC] UPDATE sales_orders SET is_shipping_changed = 1, shipping_name = 'Royal Mail - Tracked 48 - TPS' WHERE order_id = 149992675
